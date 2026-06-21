@@ -16,3 +16,10 @@ Classify text into positive and negative sentiment.
 
 ## Output
 Generated sentiment predictions and confusion matrix.
+
+## Results
+
+Accuracy: 0.0
+
+Confusion Matrix:
+See confusion_matrix.png
